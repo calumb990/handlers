@@ -1,0 +1,23 @@
+{
+  "name": "@dyrektrypt/handlers",
+  "version": "1.0.1",
+  "description": "Custom made event handlers for web development.",
+  "main": "index",
+  "types": "index",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dyrektrypt/handlers.git"
+  },
+  "keywords": [
+    "es6",
+    "typescript",
+    "html5",
+    "handlers"
+  ],
+  "author": "Dyrektrypt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dyrektrypt/handlers/issues"
+  },
+  "homepage": "https://github.com/Dyrektrypt/handlers#readme"
+}
