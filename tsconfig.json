@@ -1,11 +1,11 @@
 {
-    "compileOnSave": true,
+  "compileOnSave": true,
   
-    "compilerOptions": {
+  "compilerOptions": {
   
-      "target": "ES2020",
-      "module": "ES2020",
-      "outDir": "dist",
-      "strict": true
-    }
+    "target": "ES2020",
+    "module": "ES2020",
+    "outDir": "dist",
+    "strict": true
   }
+}
