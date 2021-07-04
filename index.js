@@ -1,2 +1,2 @@
-export { createScaleHandler, removeScaleHandler } from './dist/ScaleHandler'
-export { createViewportHandler, removeViewportHandler } from './dist/ViewportHandler'
+export { createScaleHandler, removeScaleHandler } from './src/ScaleHandler'
+export { createViewportHandler, removeViewportHandler } from './src/ViewportHandler'

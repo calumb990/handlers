@@ -1,7 +1,11 @@
-#Typescript
+#Library
 handlers
 tsconfig.json
 
 #Configuration
+webpack.config.js
+package-lock.json
+tsconfig.json
 .gitignore
 .npmignore
+.babelrc

@@ -14,7 +14,9 @@ npm i @dyrektrypt/handlers
 ```
 And that's it! Now all you need to do is import desired custom handlers.
 
-Please note if using Typescript, the tsconfig property `moduleResolution: node` should be present in order to support npm imports.
+Please note:
+* For Typescript - the tsconfig property `moduleResolution: node` should be present in order to support npm imports.
+* For ES modules - code should be transpiled to UMD or similar variants by using either webpack, rollup or browserify. 
 
 ## **usage**
 ---
