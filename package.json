@@ -1,6 +1,6 @@
 {
   "name": "@dyrektrypt/handlers",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Custom made event handlers for web development.",
   "main": "dist/handlers.js",
   "types": "index.d.ts",
